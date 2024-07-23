@@ -1,0 +1,50 @@
+﻿@model List<User>
+@{
+    ViewData["Title"] = "Users Page";
+}
+
+@{
+    <div id="app">
+    
+    </div>
+    <h2 class="text-center mb-5">Users</h2>
+    <div>
+        <div class="row mb-5">
+            <div class="col text-end col-11">
+                <a class="btn btn-primary" asp-controller="Users" asp-action="Create">Add</a>
+            </div>
+        </div>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Image</th>
+                <th>CreatedTime</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                    <td><img src="@user.ImageFileName" width="100" /></td>
+                    <td>@user.CreatedTime.ToString("yyyy/MM/dd HH:mm")</td>
+                    <td style="white-space:nowrap">
+                        <a class="btn btn-secondary btn-sm" asp-controller="Users" asp-action="Edit" asp-route-uid="@user.Id">Edit</a>
+                        <a class="btn btn-danger btn-sm" asp-controller="Users" asp-action="Delete" asp-route-uid="@user.Id"
+                           onclick="return confirm('確認刪除嗎?')">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@section Scripts {
+    <script src="~/js/main.bundle.js"></script> 
+}
