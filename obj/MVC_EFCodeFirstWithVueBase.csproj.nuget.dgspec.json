@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\demo\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj": {}
+    "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj": {}
   },
   "projects": {
-    "D:\\demo\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj": {
+    "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj",
+        "projectUniqueName": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj",
         "projectName": "MVC_EFCodeFirstWithVueBase",
-        "projectPath": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj",
+        "projectPath": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj",
         "packagesPath": "C:\\Users\\taboi\\.nuget\\packages\\",
-        "outputPath": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\obj\\",
+        "outputPath": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

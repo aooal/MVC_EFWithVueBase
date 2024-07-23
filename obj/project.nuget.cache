@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R0li+OpowxaThtVIge+LEM3ElGG1aAYVlG6Zgc2xtRWyUvXC5LBU0CHvYlZZF/mLqXw4hU+KvvlYPqpYydUO8g==",
+  "dgSpecHash": "RjBMuXbAvXuxFDkSoIf/rLfsEmlz35cjKEelAgFKL6ZvHLoiDtJR0tY1wlaeqHOqd4tHHdBFy/eaYWwOzJL0SA==",
   "success": true,
-  "projectFilePath": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj",
+  "projectFilePath": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\MVC_EFCodeFirstWithVueBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taboi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\taboi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

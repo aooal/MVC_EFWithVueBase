@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IPum19wC+7zP7rohtzzexFQm3rC0LngJOfIW+vIPPtM=",
+  "Hash": "Ec0fD7Lvcv+qRXX13nqSTeqNXEA1j9vHgqIu3QSlCcE=",
   "Source": "MVC_EFCodeFirstWithVueBase",
   "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MVC_EFCodeFirstWithVueBase\\wwwroot",
       "Source": "MVC_EFCodeFirstWithVueBase",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC_EFCodeFirstWithVueBase.styles.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC_EFCodeFirstWithVueBase.styles.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "MVC_EFCodeFirstWithVueBase.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC_EFCodeFirstWithVueBase.styles.css"
+      "OriginalItemSpec": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC_EFCodeFirstWithVueBase.styles.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC_EFCodeFirstWithVueBase.bundle.scp.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC_EFCodeFirstWithVueBase.bundle.scp.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "MVC_EFCodeFirstWithVueBase.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC_EFCodeFirstWithVueBase.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC_EFCodeFirstWithVueBase.bundle.scp.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\css\\site.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\024b32cc7bf399b1a847.woff2",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\024b32cc7bf399b1a847.woff2",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "dist/024b32cc7bf399b1a847.woff2",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\024b32cc7bf399b1a847.woff2"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\6ed59f962963a4a73af2.svg",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\6ed59f962963a4a73af2.svg",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "dist/6ed59f962963a4a73af2.svg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\6ed59f962963a4a73af2.svg"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\8931fda1930c3bd21e96.woff",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\8931fda1930c3bd21e96.woff",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "dist/8931fda1930c3bd21e96.woff",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\8931fda1930c3bd21e96.woff"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\a5c2a53d1ff7a9ff5933.ttf",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\a5c2a53d1ff7a9ff5933.ttf",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "dist/a5c2a53d1ff7a9ff5933.ttf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\a5c2a53d1ff7a9ff5933.ttf"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\bundle.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\bundle.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "dist/bundle.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bundle.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\bundle.js.LICENSE.txt",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\bundle.js.LICENSE.txt",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "dist/bundle.js.LICENSE.txt",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\bundle.js.LICENSE.txt"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\ff0c4cd79b2ffca2de54.eot",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\dist\\ff0c4cd79b2ffca2de54.eot",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "dist/ff0c4cd79b2ffca2de54.eot",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\dist\\ff0c4cd79b2ffca2de54.eot"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\favicon.ico",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -226,10 +226,29 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\024b32cc7bf399b1a847.woff2",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\index.html",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\024b32cc7bf399b1a847.woff2",
+      "SourceId": "MVC_EFCodeFirstWithVueBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/024b32cc7bf399b1a847.woff2",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\js\\024b32cc7bf399b1a847.woff2"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\6ed59f962963a4a73af2.svg",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\6ed59f962963a4a73af2.svg",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/6ed59f962963a4a73af2.svg",
       "AssetKind": "All",
@@ -264,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\js\\6ed59f962963a4a73af2.svg"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\8931fda1930c3bd21e96.woff",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\8931fda1930c3bd21e96.woff",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/8931fda1930c3bd21e96.woff",
       "AssetKind": "All",
@@ -283,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\js\\8931fda1930c3bd21e96.woff"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\a5c2a53d1ff7a9ff5933.ttf",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\a5c2a53d1ff7a9ff5933.ttf",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/a5c2a53d1ff7a9ff5933.ttf",
       "AssetKind": "All",
@@ -302,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\js\\a5c2a53d1ff7a9ff5933.ttf"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\app.bundle.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\app.bundle.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/app.bundle.js",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\app.bundle.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\app.bundle.js.LICENSE.txt",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\app.bundle.js.LICENSE.txt",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/app.bundle.js.LICENSE.txt",
       "AssetKind": "All",
@@ -340,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\js\\app.bundle.js.LICENSE.txt"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\app.bundle.js.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\app.bundle.js.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/app.bundle.js.map",
       "AssetKind": "All",
@@ -359,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\js\\app.bundle.js.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\bundle.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\bundle.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/bundle.js",
       "AssetKind": "All",
@@ -378,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bundle.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\bundle.js.LICENSE.txt",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\bundle.js.LICENSE.txt",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/bundle.js.LICENSE.txt",
       "AssetKind": "All",
@@ -397,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bundle.js.LICENSE.txt"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\bundle.js.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\bundle.js.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/bundle.js.map",
       "AssetKind": "All",
@@ -416,10 +435,29 @@
       "OriginalItemSpec": "wwwroot\\js\\bundle.js.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\d8164a3176badc7b6b4e.svg",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\d31059b0401a9e1e5e8a.svg",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
+      "RelativePath": "js/d31059b0401a9e1e5e8a.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\d31059b0401a9e1e5e8a.svg"
+    },
+    {
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\d8164a3176badc7b6b4e.svg",
+      "SourceId": "MVC_EFCodeFirstWithVueBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/d8164a3176badc7b6b4e.svg",
       "AssetKind": "All",
@@ -435,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\js\\d8164a3176badc7b6b4e.svg"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\ff0c4cd79b2ffca2de54.eot",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\ff0c4cd79b2ffca2de54.eot",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/ff0c4cd79b2ffca2de54.eot",
       "AssetKind": "All",
@@ -454,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ff0c4cd79b2ffca2de54.eot"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\images\\primeicons.svg",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\images\\primeicons.svg",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/images/primeicons.svg",
       "AssetKind": "All",
@@ -473,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\js\\images\\primeicons.svg"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\main.bundle.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\main.bundle.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/main.bundle.js",
       "AssetKind": "All",
@@ -492,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.bundle.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\main.bundle.js.LICENSE.txt",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\main.bundle.js.LICENSE.txt",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/main.bundle.js.LICENSE.txt",
       "AssetKind": "All",
@@ -511,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.bundle.js.LICENSE.txt"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\main.bundle.js.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\main.bundle.js.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/main.bundle.js.map",
       "AssetKind": "All",
@@ -530,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.bundle.js.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\js\\site.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -549,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -568,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -587,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -606,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -625,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -644,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -682,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -701,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -720,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -739,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -758,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -777,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -796,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -815,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -834,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -853,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -872,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -891,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -910,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -929,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -948,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -967,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1024,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1043,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1062,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1100,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1119,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1138,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1176,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1195,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1214,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1233,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1252,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1271,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1290,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1328,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1347,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1366,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1385,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1404,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1423,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1442,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1461,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1480,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1499,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1518,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1537,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1556,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1575,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1594,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1613,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1632,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\scripts\\App.vue",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\scripts\\App.vue",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "scripts/App.vue",
       "AssetKind": "All",
@@ -1651,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\scripts\\App.vue"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\scripts\\Home.vue",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\scripts\\Home.vue",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "scripts/Home.vue",
       "AssetKind": "All",
@@ -1670,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\scripts\\Home.vue"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\scripts\\main.js",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\scripts\\main.js",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "scripts/main.js",
       "AssetKind": "All",
@@ -1689,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\scripts\\main.js"
     },
     {
-      "Identity": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\scripts\\Users.vue",
+      "Identity": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\scripts\\Users.vue",
       "SourceId": "MVC_EFCodeFirstWithVueBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\demo\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\taboi\\OneDrive\\文件\\MVC_EFCodeFirstWithVueBase\\wwwroot\\",
       "BasePath": "_content/MVC_EFCodeFirstWithVueBase",
       "RelativePath": "scripts/Users.vue",
       "AssetKind": "All",

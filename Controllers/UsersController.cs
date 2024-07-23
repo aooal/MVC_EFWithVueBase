@@ -21,13 +21,13 @@ namespace MVC_EFCodeFirstWithVueBase.Controllers
             return View(users);
         }
         #region Create
-        public IActionResult Create()
+        public IActionResult _Create()
         {
-            return View();
+            return PartialView("_Create");
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(UserDto userDto)
+        public async Task<IActionResult>Create(UserDto userDto)
         {
             
             if (userDto.ImageFile != null && !_fileService.IsImgFileSizeValid(userDto.ImageFile))
@@ -40,16 +40,16 @@ namespace MVC_EFCodeFirstWithVueBase.Controllers
             }
             if (!ModelState.IsValid)
             {
-                return View(userDto);
+                return PartialView("_Create", userDto);
             }
             await userDto.SaveAsync(_context);
 
-            return RedirectToAction("Index","Users");
+            return Json(new { success = true });
         }
         #endregion
 
         #region Edit
-        public async Task<IActionResult> Edit(string uid)
+        public async Task<IActionResult>_Edit(string uid)
         {
             var user = await UserDto.GetUserAsyncById(_context, uid);
             if (user == null)
@@ -66,19 +66,19 @@ namespace MVC_EFCodeFirstWithVueBase.Controllers
                 Password = ""                             
             };
 
-            return View(userDto);
+            return PartialView("_Edit", userDto);
         }
         [HttpPost]
-        public async Task<IActionResult> Edit(string uid, UserDto userDto)
+        public async Task<IActionResult>Edit(string uid, UserDto userDto)
         {
             userDto.Id = uid;         
             if (!ModelState.IsValid)
             {
-                return View(userDto);
+                return PartialView("_Edit",userDto);
             }
             var result = await userDto.SaveAsync(_context);
             if (!result) return NotFound();
-            return RedirectToAction("Index", "Users");
+            return Json(new { success = true });
         }
         #endregion
 
